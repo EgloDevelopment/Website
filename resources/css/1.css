@@ -1,0 +1,107 @@
+body {
+  animation: fadeInAnimation ease 1s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.img1 {
+  width: 100%;
+  height: 1000px;
+}
+
+.hr1 {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.hr2 {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-top: 350px;
+  margin-bottom: 40px;
+}
+
+.center {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#btn1 {
+  margin-top: 100px;
+  opacity: 0.6;
+  transition: 0.5s;
+}
+
+#btn1:hover {
+  opacity: 1;
+}
+
+#words {
+  color: white;
+}
+
+.space {
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+#txt1 {
+  margin-top: 20px;
+}
+
+#txt2 {
+  margin-top: 40px;
+}
+
+.card {
+  float: left;
+  margin-left: 20px;
+  margin-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  overflow: hidden;
+  width: 18rem;
+  height: 13.5rem;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0.2, 0.2, 0.2, 0.5);
+}
