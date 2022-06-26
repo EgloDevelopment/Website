@@ -2,126 +2,139 @@
 
 <body width="device-width">
   <div class="position-absolute top-50 start-50 translate-middle">
-    <h1><span id="words">Welcome</span></h1>
+    <h1 class="center">Welcome to your,<br><span id="words">Eglo</span></h1>
     <div class="position-absolute top-50 start-50 translate-middle">
-      <button class="btn btn-outline-primary" id="btn1" style="z-index: 999;">Explore</button>
+      <a class="btn btn-outline-primary" href="https://eglo.pw#products" id="a1">Explore</a>
     </div>
   </div>
-  <img src="resources/images/landing.jpg" class="img1">
-  <h1 class="center" id="txt1">Eglo Development</h1>
-  <h4 class="center" id="txt1">Who are we?</h6>
-    <h5 class="center" id="txt2">We are a team of developers who believe that <br>you shouldn't have to pay for everything online, especially when there are <br> ad-services out there that will cover the cost of development and more. <br>So we set out with a goal, make free, efficent, self-hostable services, all for the cost <br>of nothing to the user.</h5>
-    <hr class="hr1">
-    <h1 class="center" id="txt1">Services</h1>
-    <h4 class="center" id="txt1">(Free)</h6>
-
-
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Nymi!</h5>
-          <p class="card-text">In these days, anything less than 50GB of storage won't cut it, thats why we are offering free 50GB cloud storage for everyone.</p>
-          <div class="btn-group dropup">
-            <button type="button" class="btn btn-primary" disabled>Go to Nymi!</button>
-            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-              <span class="visually-hidden">Toggle Dropdown</span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Nymi!</a></li>
-              <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Cloud">GitHub</a></li>
-            </ul>
-          </div>
+  <div id="products">
+  <div style="margin-top: 1000px;">
+    <h1 class="center" id="txt1">Eglo Development</h1>
+    <h4 class="center" id="txt1">Who are we?</h6>
+    <div class="txt-content">
+      <h5 class="center" id="txt2">We are a team of developers who believe that you shouldn't have to pay for everything online, especially when there are ad-services out there that will cover the cost of development and more. So we set out with a goal, make free, efficent, self-hostable services, all for the cost of nothing to the user.</h5>
+    </div>
+      <hr class="hr1">
+      <h1 class="center" id="txt1">Services</h1>
+      <h4 class="center" id="txt1">(Free)</h4>
+</div>
+  </div>
+  <div>
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Nymi!</h5>
+        <p class="card-text">In these days, anything less than 50GB of storage won't cut it, thats why we are offering free 50GB cloud storage for everyone.</p>
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-primary" disabled>Go to Nymi!</button>
+          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+            <span class="visually-hidden">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Nymi!</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Cloud">GitHub</a></li>
+          </ul>
         </div>
       </div>
+    </div>
 
 
-      <div class="card" style="width: 18rem;">
-        <div class="card-body">
-          <h5 class="card-title">Phonix</h5>
-          <p class="card-text">Simple and cross platform email client with custom servers with 99.99% uptime, 20GB inbox storage, free, for everyone.</p>
-          <div class="btn-group dropup">
-            <button type="button" class="btn btn-primary" disabled>Go to Phonix</button>
-            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-              <span class="visually-hidden">Toggle Dropdown</span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Phonix</a></li>
-              <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Phonix">GitHub</a></li>
-            </ul>
-          </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Phonix</h5>
+        <p class="card-text">Simple and cross platform email client with custom servers with 99.99% uptime, 20GB inbox storage, free, for everyone.</p>
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-primary" disabled>Go to Phonix</button>
+          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+            <span class="visually-hidden">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Phonix</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Phonix">GitHub</a></li>
+          </ul>
         </div>
       </div>
+    </div>
 
-      <div class="card" style="width: 18rem;">
-        <div class="card-body">
-          <h5 class="card-title">Gameer</h5>
-          <p class="card-text">Finding a good squad in games is hard, which is why we made this website to find you teammates that are the same rank and level.</p>
-          <div class="btn-group dropup">
-            <button type="button" class="btn btn-primary" disabled>Go to Phonix</button>
-            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-              <span class="visually-hidden">Toggle Dropdown</span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Gameer</a></li>
-              <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Gameer">GitHub</a></li>
-            </ul>
-          </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Gameer</h5>
+        <p class="card-text">Finding a good squad in games is hard, which is why we made this website to find you teammates that are the same rank and level.</p>
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-primary" disabled>Go to Gameer</button>
+          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+            <span class="visually-hidden">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Gameer</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Gameer">GitHub</a></li>
+          </ul>
         </div>
       </div>
+    </div>
 
-      <div class="card" style="width: 18rem;">
-        <div class="card-body">
-          <h5 class="card-title">NotyFi</h5>
-          <p class="card-text">Have a program but don't know how to send push notifications? we're here to help, with our API you can get up and running quickly.</p>
-          <div class="btn-group dropup">
-            <button type="button" class="btn btn-primary" disabled>Go to Phonix</button>
-            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-              <span class="visually-hidden">Toggle Dropdown</span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">NotyFi</a></li>
-              <li><a class="dropdown-item" href="NotyFi">GitHub</a></li>
-            </ul>
-          </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">NotyFi</h5>
+        <p class="card-text">Have a program but don't know how to send push notifications? we're here to help, with our API you can get up and running quickly.</p>
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-primary" disabled>Go to NotyFi</button>
+          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+            <span class="visually-hidden">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">NotyFi</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/NotyFi">GitHub</a></li>
+          </ul>
         </div>
       </div>
+    </div>
 
-      <div class="card" style="width: 18rem;">
-        <div class="card-body">
-          <h5 class="card-title">R1ng3r</h5>
-          <p class="card-text">Self-hostable free audio and video calling platform with built-in free messaging capabilities. Hosted on fast and reliable servers</p>
-          <div class="btn-group dropup">
-            <button type="button" class="btn btn-primary" disabled>Go to Phonix</button>
-            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-              <span class="visually-hidden">Toggle Dropdown</span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">R1ng3r</a></li>
-              <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/R1ng3r">GitHub</a></li>
-            </ul>
-          </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">R1ng3r</h5>
+        <p class="card-text">Self-hostable free audio and video calling platform with built-in free messaging capabilities. Hosted on fast and reliable servers</p>
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-primary" disabled>Go to R1ng3r</button>
+          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+            <span class="visually-hidden">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">R1ng3r</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/R1ng3r">GitHub</a></li>
+          </ul>
         </div>
       </div>
+    </div>
 
-      <div class="card" style="width: 18rem;">
-        <div class="card-body">
-          <h5 class="card-title">Soacl</h5>
-          <p class="card-text">A self hostable AI powered social media platform, showing you only what want to see, nothing less, nothing more.</p>
-          <div class="btn-group dropup">
-            <button type="button" class="btn btn-primary" disabled>Go to Phonix</button>
-            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-              <span class="visually-hidden">Toggle Dropdown</span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Soacl</a></li>
-              <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Soacl">GitHub</a></li>
-            </ul>
-          </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Soacl</h5>
+        <p class="card-text">A self hostable AI powered social media platform, showing you only what want to see, nothing less, nothing more.</p>
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-primary" disabled>Go to Soacl</button>
+          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+            <span class="visually-hidden">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Soacl</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Soacl">GitHub</a></li>
+          </ul>
         </div>
       </div>
-    <hr class="hr2">
-    <h1 class="center" id="txt1">Why us?</h1>
-    <h4 class="center" id="txt1">Why not? (jk)</h6>
-    <h5 class="center" id="txt2">We are a team of developers who believe that <br>you shouldn't have to pay for everything online, especially when there are <br> ad-services out there that will cover the cost of development and more. <br>So we set out with a goal, make free, efficent, self-hostable services, all for the cost <br>of nothing to the user.</h5>
+    </div>
+  </div>
 
 
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+<div class="txt-content">
+  <hr class="hr2">
+  <h1 class="center" id="txt1">Why us?</h1>
+  <h5 class="center" id="txt2">While everything we offer is not free, you can be sure that there are low and consistent prices with no hidden fees. We believe that almost everything should be open-source, not only for security, but to empower more people to learn code. We are not a registered company, so we are unable to offer services hosted by us, but we are able to provide open source projects with instructions on how to host them, our goal is for normal non-tech-savvy people to host their own projects and learn more about code.</h5>
+
+
+  <h1 class="center" id="txt3">What to expect</h1>
+  <h5 class="center" id="txt2">Within the next four years, we will be able to offer services hosted by us, but until then, we can only provide tutorials and links to host our projects. By hosting our projects you agree to the <a class="text-reset" href="legal/TU">Terms-of-Use</a>, the <a class="text-reset" href="https://eglo.pw/legal/TOS">Terms-of-Service</a>, and <a class="text-reset" href="https://eglo.pw/legal/AU">Acceptable-Use</a> policy and any other policys listed in the project or linked to said project. You can view our roadmap <a class="text-reset" href="https://eglo.pw/pages/roadmap">here</a></h5>
+</div>
+  <?php include("resources/headers/footer.php"); ?>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
