@@ -2,8 +2,8 @@
 
 <body width="device-width">
   <div class="position-absolute top-50 end-0 translate-middle-y">
-    <div class="card" id="hidden-mobile" style="margin-right: 200px; margin-bottom: 500px;">
-    <img src="resources/images/menu.png">
+    <div class="card" id="hidden-mobile1" style="margin-right: 200px; margin-bottom: 500px;">
+      <img src="resources/images/menu.png">
       <div class="card-body">
         <p>#include <\iostream\><br>
             using namespace std;<br>
@@ -18,8 +18,8 @@
     </div>
   </div>
   <div class="position-absolute top-50 end-0 translate-middle-y">
-    <div class="card" id="hidden-mobile" style="margin-left: 200px; margin-top: 200px;">
-    <img src="resources/images/menu.png">
+    <div class="card" id="hidden-mobile1" style="margin-left: 200px; margin-top: 200px;">
+      <img src="resources/images/menu.png">
       <div class="card-body">
         <p>
           if(!isset($_COOKIE[$cookie_name])) {<br>
@@ -34,8 +34,8 @@
     </div>
   </div>
   <div class="position-absolute top-50 start-0 translate-middle-y">
-    <div class="card" id="hidden-mobile" style="margin-right: 400px;">
-    <img src="resources/images/menu.png">
+    <div class="card" id="hidden-mobile1" style="margin-right: 400px;">
+      <img src="resources/images/menu.png">
       <div class="card-body">
         <p>public class Main {<br>
           public static void main(String[] args) {<br>
@@ -47,8 +47,8 @@
     </div>
   </div>
   <div class="position-absolute top-50 start-0 translate-middle-y">
-    <div class="card" id="hidden-mobile" style="margin-left: 200px; margin-top: 200px;">
-    <img src="resources/images/menu.png">
+    <div class="card" id="hidden-mobile1" style="margin-left: 200px; margin-top: 200px;">
+      <img src="resources/images/menu.png">
       <div class="card-body">
         <p>function confirm() {<br>
           var txt;<br>
@@ -64,8 +64,8 @@
     </div>
   </div>
   <div class="position-absolute top-50 end-0 translate-middle-y">
-    <div class="card" id="hidden-mobile" style="margin-right: 200px; margin-top: 400px;">
-    <img src="resources/images/menu.png">
+    <div class="card" id="hidden-mobile1" style="margin-right: 200px; margin-top: 400px;">
+      <img src="resources/images/menu.png">
       <div class="card-body">
         <p>$sql = "INSERT INTO MyGuests (firstname, lastname, email)
           VALUES ('John', 'Doe', 'john@example.com')";<br><br>
@@ -94,7 +94,7 @@
         <h4 class="center" id="txt1">(Free)</h4>
     </div>
   </div>
-  <div>
+  <div style="width: 100%;">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Nymi!</h5>
@@ -150,7 +150,7 @@
     <div class="card" style="width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">NotyFi</h5>
-        <p class="card-text">Have a program but don't know how to send push notifications? we're here to help, with our API you can get up and running quickly.</p>
+        <p class="card-text">Have a program but don't know how to send push notifications? we're here to help, with an easy UI, you can get running quickly.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to NotyFi</button>
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
@@ -167,7 +167,7 @@
     <div class="card" style="width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">R1ng3r</h5>
-        <p class="card-text">Self-hostable free audio and video calling platform with built-in free messaging capabilities. Hosted on fast and reliable servers</p>
+        <p class="card-text">Self-hostable free audio and video calling platform with built-in free messaging capabilities. Hosted on fast and reliable servers.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to R1ng3r</button>
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
@@ -198,12 +198,12 @@
       </div>
     </div>
   </div>
-  <div style="width: 100%; height: 200px;">  </div>
+  </div>
+  <hr style="width: 100%; opacity: 0;">
 
 
 
   <div class="txt-content">
-    <hr class="hr2">
     <h1 class="center" id="txt1">Why us?</h1>
     <h5 class="center" id="txt2">While everything we offer is not free, you can be sure that there are low and consistent prices with no hidden fees. We believe that almost everything should be open-source, not only for security, but to empower more people to learn code. We are not a registered company, so we are unable to offer services hosted by us, but we are able to provide open source projects with instructions on how to host them, our goal is for normal non-tech-savvy people to host their own projects and learn more about code.</h5>
 
