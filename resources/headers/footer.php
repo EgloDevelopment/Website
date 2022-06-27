@@ -21,10 +21,13 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Eglo Development
+            Eglo Development
           </h6>
           <p>
-        2020-2022
+            <a href="https://twitter.com/EgloDevelopment" class="text-reset">Twitter</a>
+          </p>
+          <p>
+            <a href="https://github.com/EgloDevelopment" class="text-reset">GitHub</a>
           </p>
         </div>
         <!-- Grid column -->
@@ -55,6 +58,9 @@
           </h6>
           <p>
             <a href="#!" class="text-reset">Home</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Pricing</a>
           </p>
           <p>
             <a href="#!" class="text-reset">Docs</a>

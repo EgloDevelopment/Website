@@ -134,6 +134,10 @@
 
   <h1 class="center" id="txt3">What to expect</h1>
   <h5 class="center" id="txt2">Within the next four years, we will be able to offer services hosted by us, but until then, we can only provide tutorials and links to host our projects. By hosting our projects you agree to the <a class="text-reset" href="legal/TU">Terms-of-Use</a>, the <a class="text-reset" href="https://eglo.pw/legal/TOS">Terms-of-Service</a>, and <a class="text-reset" href="https://eglo.pw/legal/AU">Acceptable-Use</a> policy and any other policys listed in the project or linked to said project. You can view our roadmap <a class="text-reset" href="https://eglo.pw/pages/roadmap">here</a></h5>
+
+
+  <h1 class="center" id="txt3">Nothing is free</h1>
+  <h5 class="center" id="txt2">We get it, nothing is free, ever, there is always a catch, and we do have a catch. In order to use our services you must have your ad-blocker disabled, you will be unable to use our services with an ad-blocker, don't worry though, these ads are unobtrusive and can be closed, we promise to never make you watch a video in order to access your content. We also promise that there will be no ads on any core-pages, such as your file-viewer on Nymi!, or your inbox on Phonix, or any other core pages where ads would make it difficult to view content and/or interact with said site. We make ninety-five percent of our money off ad revenue from Google, so in order for us to cover storage and server costs, we must show ads, we also hate ads, but it's better than paying a monthly fee to access services.</h5>
 </div>
   <?php include("resources/headers/footer.php"); ?>
 

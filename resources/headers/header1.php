@@ -9,7 +9,7 @@
     <script src="../resources/js/1.js"></script>
     <link rel="stylesheet" href="../resources/css/1.css">
   </head>
-  <nav class="navbar navbar-expand-lg bg-light sticky-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Eglo</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
