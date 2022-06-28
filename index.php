@@ -1,4 +1,4 @@
-<?php include("resources/headers/header1.php"); ?>
+<?php include("resources/headers/header.php"); ?>
 
 <body width="device-width">
   <div class="position-absolute top-50 end-0 translate-middle-y">
@@ -27,7 +27,7 @@
           } else {<br>
           echo "Cookie '" . $cookie_name . "' is set!<br>";
           echo "Value is: " . $_COOKIE[$cookie_name];<br>
-          }
+          }<br>
           ?></p>
         </ul>
       </div>
@@ -86,7 +86,7 @@
     <div style="margin-top: 1000px;">
       <h1 class="center" id="txt1">Eglo Development</h1>
       <h4 class="center" id="txt1">Who are we?</h6>
-        <div class="txt-content">
+        <div class="txt-content1">
           <h5 class="center" id="txt2">We are a team of developers who believe that you shouldn't have to pay for everything online, especially when there are ad-services out there that will cover the cost of development and more. So we set out with a goal, make free, efficent, self-hostable services, all for the cost of nothing to the user.</h5>
         </div>
         <hr class="hr1">
@@ -203,7 +203,7 @@
 
 
 
-  <div class="txt-content">
+  <div class="txt-content2">
     <h1 class="center" id="txt1">Why us?</h1>
     <h5 class="center" id="txt2">While everything we offer is not free, you can be sure that there are low and consistent prices with no hidden fees. We believe that almost everything should be open-source, not only for security, but to empower more people to learn code. We are not a registered company, so we are unable to offer services hosted by us, but we are able to provide open source projects with instructions on how to host them, our goal is for normal non-tech-savvy people to host their own projects and learn more about code.</h5>
 

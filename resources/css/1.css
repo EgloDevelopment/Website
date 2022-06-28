@@ -151,6 +151,30 @@ li:hover {
   word-wrap: break-word;
 }
 
+.map-div {
+  margin-left: 40px; 
+  margin-right: 40px; 
+  margin-top: 40px;
+}
+
+.status-up {
+  width: 30%;
+  margin-left: 40px; 
+  margin-top: 20px;
+  background: rgba(0, 151, 19, 0.6);
+  border-style: solid;
+  padding: 5px;
+}
+
+.status-down {
+  width: 30%;
+  margin-left: 40px; 
+  margin-top: 20px;
+  background: rgba(241, 8, 8, 0.6);
+  border-style: solid;
+  padding: 5px;
+}
+
 @media (max-width: 1200px) {
   .hidden-mobile1 {
     display: none;
