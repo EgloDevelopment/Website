@@ -204,7 +204,7 @@
 
 
   <div class="txt-content2">
-    <h1 class="center" id="txt1">Why us?</h1>
+    <h1 class="center" id="txt3">Why us?</h1>
     <h5 class="center" id="txt2">While everything we offer is not free, you can be sure that there are low and consistent prices with no hidden fees. We believe that almost everything should be open-source, not only for security, but to empower more people to learn code. We are not a registered company, so we are unable to offer services hosted by us, but we are able to provide open source projects with instructions on how to host them, our goal is for normal non-tech-savvy people to host their own projects and learn more about code.</h5>
 
 
