@@ -54,9 +54,6 @@
           var txt;<br>
           if (confirm("Select")) {<br>
           txt = "Confirmed";<br>
-          } else {<br>
-          txt = "Declined";<br>
-          }<br>
           }</p>
         </ul>
       </div>
