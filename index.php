@@ -56,8 +56,6 @@
           txt = "Confirmed";<br>
           } else {<br>
           txt = "Declined";<br>
-          }<br>
-          document.getElementById("alert").innerHTML = txt;<br>
           }</p>
         </ul>
       </div>
