@@ -50,12 +50,13 @@
     <div class="card" id="hidden-mobile1" style="margin-left: 200px; margin-top: 200px;">
       <img src="resources/images/menu.png">
       <div class="card-body">
-        <p>function confirm() {<br>
+      <p>function confirm() {<br>
           var txt;<br>
           if (confirm("Select")) {<br>
           txt = "Confirmed";<br>
           } else {<br>
           txt = "Declined";<br>
+          }<br>
           }</p>
         </ul>
       </div>
