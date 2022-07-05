@@ -23,10 +23,13 @@
           <a class="nav-link" aria-current="page" href="https://eglo.pw">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://eglo.pw/features">Features</a>
+          <a class="nav-link" href="https://eglo.pw/pricing">Pricing</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://eglo.pw/pricing">Pricing</a>
+          <a class="nav-link" href="https://eglo.pw/blog">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://eglo.pw/docs">Docs</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://eglo.pw/status">Status</a>

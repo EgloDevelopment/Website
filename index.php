@@ -50,7 +50,7 @@
     <div class="card" id="hidden-mobile1" style="margin-left: 200px; margin-top: 200px;">
       <img src="resources/images/menu.png">
       <div class="card-body">
-      <p>function confirm() {<br>
+        <p>function confirm() {<br>
           var txt;<br>
           if (confirm("Select")) {<br>
           txt = "Confirmed";<br>
@@ -81,13 +81,9 @@
   <div id="products">
     <div style="margin-top: 1000px;">
       <h1 class="center" id="txt1">Eglo Development</h1>
-      <h4 class="center" id="txt1">Who are we?</h6>
-        <div class="txt-content">
-          <h5 class="center" id="txt2">We are a team of developers who believe that you shouldn't have to pay for everything online, especially when there are ad-services out there that will cover the cost of development and more. So we set out with a goal, make free, efficent, self-hostable services, all for the cost of nothing to the user.</h5>
-        </div>
-        <hr class="hr1">
-        <h1 class="center" id="txt1">Services</h1>
-        <h4 class="center" id="txt1">(Free)</h4>
+      <hr class="hr1">
+      <h1 class="center" id="txt1">Services</h1>
+      <h4 class="center" id="txt1">(Free)</h4>
     </div>
   </div>
   <div style="width: 100%;">
@@ -100,7 +96,7 @@
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="#">Nymi!</a></li>
             <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Cloud">GitHub</a></li>
           </ul>
@@ -118,7 +114,7 @@
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="#">Phonix</a></li>
             <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Phonix">GitHub</a></li>
           </ul>
@@ -135,7 +131,7 @@
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="#">Gameer</a></li>
             <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Gameer">GitHub</a></li>
           </ul>
@@ -152,7 +148,7 @@
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="#">NotyFi</a></li>
             <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/NotyFi">GitHub</a></li>
           </ul>
@@ -169,7 +165,7 @@
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="#">R1ng3r</a></li>
             <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/R1ng3r">GitHub</a></li>
           </ul>
@@ -186,7 +182,7 @@
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="#">Soacl</a></li>
             <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Soacl">GitHub</a></li>
           </ul>
@@ -200,6 +196,10 @@
 
 
   <div class="txt-content">
+    <h1 class="center" id="txt3">Who are we?</h1>
+    <h5 class="center" id="txt2">We are a team of developers who believe that you shouldn't have to pay for everything online, especially when there are ad-services out there that will cover the cost of development and more. So we set out with a goal, make free, efficent, self-hostable services, all for the cost of nothing to the user.</h5>
+
+
     <h1 class="center" id="txt3">Why us?</h1>
     <h5 class="center" id="txt2">While everything we offer is not free, you can be sure that there are low and consistent prices with no hidden fees. We believe that almost everything should be open-source, not only for security, but to empower more people to learn code. We are not a registered company, so we are unable to offer services hosted by us, but we are able to provide open source projects with instructions on how to host them, our goal is for normal non-tech-savvy people to host their own projects and learn more about code.</h5>
 
