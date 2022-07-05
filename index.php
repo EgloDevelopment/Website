@@ -195,7 +195,7 @@
 
 
 
-  <div class="txt-content">
+  <div class="txt-content-other">
     <h1 class="center" id="txt3">Who are we?</h1>
     <h5 class="center" id="txt2">We are a team of developers who believe that you shouldn't have to pay for everything online, especially when there are ad-services out there that will cover the cost of development and more. So we set out with a goal, make free, efficent, self-hostable services, all for the cost of nothing to the user.</h5>
 

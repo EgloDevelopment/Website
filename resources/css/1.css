@@ -86,21 +86,21 @@ body::-webkit-scrollbar {
 }
 
 a {
-  opacity: 0.9;
+  opacity: 0.6;
   transition: 0.5s;
 }
 
-a {
+a:hover {
   opacity: 1;
 }
 
 li {
-  opacity: 0.9;
-  transition: 0.5s;
+  opacity: 0.6;
 }
 
-li {
+li:hover {
   opacity: 1;
+  transition: 0.5s;
 }
 
 .space {
@@ -147,6 +147,17 @@ li {
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
+  width: 80%;
+  word-wrap: break-word;
+}
+
+.txt-content-other {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
   word-wrap: break-word;
 }
