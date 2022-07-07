@@ -158,16 +158,16 @@
 
     <div class="card" style="width: 18rem;">
       <div class="card-body">
-        <h5 class="card-title">R1ng3r</h5>
-        <p class="card-text">Self-hostable free audio and video calling platform with built-in free messaging capabilities. Hosted on fast and reliable servers.</p>
+        <h5 class="card-title">Trakr</h5>
+        <p class="card-text">Advanced self-hostbale realtime website metric tracker for your website performance, click rate, and estimated revenue stream.</p>
         <div class="btn-group dropup">
-          <button type="button" class="btn btn-primary" disabled>Go to R1ng3r</button>
+          <button type="button" class="btn btn-primary" disabled>Go to Trakr</button>
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
           <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">R1ng3r</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/R1ng3r">GitHub</a></li>
+            <li><a class="dropdown-item" href="#">Trakr</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Trakr">GitHub</a></li>
           </ul>
         </div>
       </div>
