@@ -93,13 +93,6 @@
         <p class="card-text">In these days, anything less than 50GB of storage won't cut it, thats why we are offering free 50GB cloud storage for everyone.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" onclick="window.location='https://eglo.pw/products/nymi';">Go to Nymi!</button>
-          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-            <span class="visually-hidden">Toggle Dropdown</span>
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="https://eglo.pw/products/nymi">Nymi!</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Nymi">GitHub</a></li>
-          </ul>
         </div>
       </div>
     </div>
@@ -111,13 +104,6 @@
         <p class="card-text">Simple and cross platform email client with custom servers with 99.99% uptime, 20GB inbox storage, free, for everyone.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to Phonix</button>
-          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-            <span class="visually-hidden">Toggle Dropdown</span>
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Phonix</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Phonix">GitHub</a></li>
-          </ul>
         </div>
       </div>
     </div>
@@ -128,13 +114,6 @@
         <p class="card-text">Finding a good squad in games is hard, which is why we made this website to find you teammates that are the same rank and level.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to Gameer</button>
-          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-            <span class="visually-hidden">Toggle Dropdown</span>
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Gameer</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Gameer">GitHub</a></li>
-          </ul>
         </div>
       </div>
     </div>
@@ -145,13 +124,6 @@
         <p class="card-text">Have a program but don't know how to send push notifications? we're here to help, with an easy UI, you can get running quickly.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to NotyFi</button>
-          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-            <span class="visually-hidden">Toggle Dropdown</span>
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">NotyFi</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/NotyFi">GitHub</a></li>
-          </ul>
         </div>
       </div>
     </div>
@@ -162,13 +134,6 @@
         <p class="card-text">Advanced self-hostbale realtime website metric tracker for your website performance, click rate, and estimated revenue stream.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to Trakr</button>
-          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-            <span class="visually-hidden">Toggle Dropdown</span>
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Trakr</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Trakr">GitHub</a></li>
-          </ul>
         </div>
       </div>
     </div>
@@ -179,13 +144,6 @@
         <p class="card-text">A self hostable AI powered social media platform, showing you only what want to see, nothing less, nothing more.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to Soacl</button>
-          <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-            <span class="visually-hidden">Toggle Dropdown</span>
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Soacl</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Soacl">GitHub</a></li>
-          </ul>
         </div>
       </div>
     </div>
