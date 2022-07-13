@@ -92,13 +92,13 @@
         <h5 class="card-title">Nymi!</h5>
         <p class="card-text">In these days, anything less than 50GB of storage won't cut it, thats why we are offering free 50GB cloud storage for everyone.</p>
         <div class="btn-group dropup">
-          <button type="button" class="btn btn-primary" disabled>Go to Nymi!</button>
+          <button type="button" class="btn btn-primary" onclick="window.location='eglo.pw/products/nymi';">Go to Nymi!</button>
           <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
             <span class="visually-hidden">Toggle Dropdown</span>
           </button>
           <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Nymi!</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Cloud">GitHub</a></li>
+            <li><a class="dropdown-item" href="https://eglo.pw/products/nymi">Nymi!</a></li>
+            <li><a class="dropdown-item" href="https://github.com/EgloDevelopment/Nymi">GitHub</a></li>
           </ul>
         </div>
       </div>
