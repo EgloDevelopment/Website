@@ -4,7 +4,8 @@
 <h1 class="center">Contact</h1>
 <br>
 <br>
-<form action="https://backend.eglo.pw/contact/new" method="POST">
+<iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
+<form action="https://backend.eglo.pw/contact/new" method="POST" target="dummyframe">
 <input type="email" name="email" class="form-control" placeholder="Email" required>
 <br>
 <input type="name" name="name" class="form-control" placeholder="Name" required>
@@ -25,10 +26,16 @@
   </select>
 </div>
 <div class="center">
-<input type="submit" class="btn btn-primary">
+<input type="submit" class="btn btn-primary" onclick="redir();">
 </div>
 </div>
 </form>
+<script>
+  function redir() {
+    setTimeout(function(){window.location.href = "../contact/success";}, 1000)
+    //window.location.href = "../contact/success";
+  }
+</script>
 </body>
 <div style="margin-top: 1000px;">
 <?php include("../resources/headers/footer.php"); ?>
