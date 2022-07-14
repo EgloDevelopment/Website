@@ -19,10 +19,10 @@
     <option value="1">Nymi</option>
     <option value="2">Phonix</option>
     <option value="3">Gamr</option>
-    <option value="3">NotyFi</option>
-    <option value="3">Trakr</option>
-    <option value="3">Soacl</option>
-    <option value="3">Other</option>
+    <option value="4">NotyFi</option>
+    <option value="5">Trakr</option>
+    <option value="6">Soacl</option>
+    <option value="7">Other</option>
   </select>
 </div>
 <div class="center">
