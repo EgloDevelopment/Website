@@ -20,7 +20,7 @@
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="https://eglo.pw">Home</a>
+          <a class="nav-link" href="https://eglo.pw">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://eglo.pw/pricing">Pricing</a>
@@ -33,6 +33,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://eglo.pw/status">Status</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://eglo.pw/contact">Contact</a>
         </li>
       </ul>
     </div>

@@ -40,10 +40,13 @@
             <a href="https://eglo.pw/pricing" class="text-reset">Pricing</a>
           </p>
           <p>
+            <a href="https://eglo.pw/blog" class="text-reset">Blog</a>
+          </p>
+          <p>
             <a href="https://eglo.pw/docs" class="text-reset">Docs</a>
           </p>
           <p>
-            <a href="https://eglo.pw/blog" class="text-reset">Blog</a>
+            <a href="https://eglo.pw/status" class="text-reset">Status</a>
           </p>
           <p>
             <a href="https://eglo.pw/contact" class="text-reset">Contact</a>
