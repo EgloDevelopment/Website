@@ -131,7 +131,7 @@
     <div class="card" style="width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Trakr</h5>
-        <p class="card-text">Advanced self-hostbale realtime website metric tracker for your website performance, click rate, and estimated revenue stream.</p>
+        <p class="card-text">Advanced self-hostable realtime website metric tracker for your website performance, click rate, and estimated revenue stream.</p>
         <div class="btn-group dropup">
           <button type="button" class="btn btn-primary" disabled>Go to Trakr</button>
         </div>
