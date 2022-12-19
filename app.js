@@ -40,7 +40,7 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-port = 0002;
+port = 3000;
 
 app.listen(port, function(){
     console.log("Info:",'Server is running at port: ' + port);
