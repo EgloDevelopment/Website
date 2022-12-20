@@ -6,7 +6,6 @@ html {
   padding: 0px;
   margin: 0px;
   background-color: #111111 !important;
-  -webkit-backface-visibility: hidden;
   font-family: Arial, sans-serif;
 }
 
