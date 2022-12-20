@@ -15,7 +15,7 @@ const Sidebar = () => {
         <div>
           <span className="footer-title">Company</span>
           <a className="link link-hover">About us</a>
-          <a className="link link-hover">Contact</a>
+          <a href="/contact" className="link link-hover">Contact</a>
           <a className="link link-hover">Jobs</a>
           <a className="link link-hover">Learn</a>
           <a className="link link-hover">Docs</a>
