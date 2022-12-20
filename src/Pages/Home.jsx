@@ -228,9 +228,6 @@ function App() {
       <Footer />
 
       <div className="fixed m-3 bottom-0 right-0 z-50">
-        //<span className="flex h-3 w-3 ml-32">
-          //<span className="animate-ping relative inline-flex rounded-full h-3 w-3 bg-sky-500 mt-2 z-50"></span>
-        //</span>
         <label htmlFor="NF" className="btn position-absolute">
           Alert
         </label>
