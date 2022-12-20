@@ -29,10 +29,10 @@ const Sidebar = () => {
               className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
-                <a>Contact</a>
+                <a>Learn</a>
               </li>
               <li>
-                <a>Learn</a>
+                <a href="/contact">Contact</a>
               </li>
               <li>
                 <a>About</a>
@@ -46,10 +46,10 @@ const Sidebar = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <a href="/contact">Contact</a>
+              <a>Learn</a>
             </li>
             <li>
-              <a>Learn</a>
+              <a href="/contact">Contact</a>
             </li>
             <li>
               <a>About</a>
