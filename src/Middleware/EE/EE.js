@@ -13,6 +13,7 @@ export default async function EE() {
 				}, 1000);
 			}
 			if (escTime >= 3) {
+				console.log("Redirecting")
 				let url = "https://google.com";
 				window.location.replace(url);
 				escTime = 0;
