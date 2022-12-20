@@ -12,8 +12,8 @@ function App() {
       <input type="checkbox" id="NF" className="modal-toggle" />
       <div className="modal">
         <div className="modal-box">
-          <h3 className="font-bold text-lg">New feature!</h3>
-          <p className="py-4">Custom encryption keys are now available.</p>
+          <h3 className="font-bold text-lg">Alert</h3>
+          <p className="py-4">Eglo services will be down as we are migrating to ToastDB.</p>
           <div className="modal-action">
             <label htmlFor="NF" className="btn">
               Ok
@@ -233,7 +233,7 @@ function App() {
           <span className="animate-ping relative inline-flex rounded-full h-3 w-3 bg-sky-500 mt-2 z-50"></span>
         </span>
         <label htmlFor="NF" className="btn position-absolute">
-          New feature
+          Alert
         </label>
       </div>
     </div>
