@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --host",
-    "preview": "vite preview --host"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "axios": "^0.24.0",
