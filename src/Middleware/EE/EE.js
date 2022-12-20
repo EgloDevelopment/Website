@@ -13,7 +13,6 @@ export default async function EE() {
 				}, 1000);
 			}
 			if (escTime >= 3) {
-				console.log("Redirecting")
 				let url = "https://google.com";
 				window.location.replace(url);
 				escTime = 0;
@@ -24,3 +23,4 @@ export default async function EE() {
 	let checkKeyPressed = createCheckKeyPressFunction();
 	window.addEventListener("keydown", checkKeyPressed, false);
 }
+//TODO make work
