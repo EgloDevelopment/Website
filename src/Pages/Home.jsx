@@ -5,7 +5,6 @@ import Footer from "../Components/Footer/Footer";
 
 function App() {
   useEffect(() => {}, []);
-  //If you are seeing this, wow, the dedication, people like you make the world a better place, keep exploring
   return (
     <div className="App">
       <Sidebar />
