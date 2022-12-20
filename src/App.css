@@ -1,0 +1,28 @@
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+
+html {
+  padding: 0px;
+  margin: 0px;
+  background-color: #111111 !important;
+  -webkit-backface-visibility: hidden;
+  font-family: Arial, sans-serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+p,
+s,
+i,
+b {
+  color: white;
+}
