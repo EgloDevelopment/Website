@@ -5,15 +5,14 @@ import Footer from "../Components/Footer/Footer";
 
 function App() {
   useEffect(() => {}, []);
-  //If you are seeing this, wow, the dedication, people like you make the world a better place, keep exploring
   return (
     <div className="App">
       <Sidebar />
       <input type="checkbox" id="NF" className="modal-toggle" />
       <div className="modal">
         <div className="modal-box">
-          <h3 className="font-bold text-lg">New feature!</h3>
-          <p className="py-4">Custom encryption keys are now available.</p>
+          <h3 className="font-bold text-lg">Alert</h3>
+          <p className="py-4">Eglo services will be down as we are migrating to ToastDB.</p>
           <div className="modal-action">
             <label htmlFor="NF" className="btn">
               Ok
@@ -229,11 +228,8 @@ function App() {
       <Footer />
 
       <div className="fixed m-3 bottom-0 right-0 z-50">
-        <span className="flex h-3 w-3 ml-32">
-          <span className="animate-ping relative inline-flex rounded-full h-3 w-3 bg-sky-500 mt-2 z-50"></span>
-        </span>
         <label htmlFor="NF" className="btn position-absolute">
-          New feature
+          Alert
         </label>
       </div>
     </div>
