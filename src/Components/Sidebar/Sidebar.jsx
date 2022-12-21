@@ -32,6 +32,9 @@ const Sidebar = () => {
                 <a>Pricing</a>
               </li>
               <li>
+                <a href="https://uptime.eglo.pw" target="_blank">Uptime</a>
+              </li>
+              <li>
                 <a>Learn</a>
               </li>
               <li>
@@ -49,7 +52,10 @@ const Sidebar = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li>
-                <a>Pricing</a>
+              <a>Pricing</a>
+            </li>
+            <li>
+              <a href="https://uptime.eglo.pw" target="_blank">Uptime</a>
             </li>
             <li>
               <a>Learn</a>
