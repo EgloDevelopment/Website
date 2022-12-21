@@ -32,16 +32,12 @@ const Sidebar = () => {
                 <a>Pricing</a>
               </li>
               <li>
-                <a href="https://uptime.eglo.pw" target="_blank">Uptime</a>
-              </li>
-              <li>
-                <a>Learn</a>
+                <a href="https://uptime.eglo.pw" target="_blank">
+                  Uptime
+                </a>
               </li>
               <li>
                 <a href="/contact">Contact</a>
-              </li>
-              <li>
-                <a>About</a>
               </li>
               <li>
                 <a>Docs</a>
@@ -55,16 +51,12 @@ const Sidebar = () => {
               <a>Pricing</a>
             </li>
             <li>
-              <a href="https://uptime.eglo.pw" target="_blank">Uptime</a>
-            </li>
-            <li>
-              <a>Learn</a>
+              <a href="https://uptime.eglo.pw" target="_blank">
+                Uptime
+              </a>
             </li>
             <li>
               <a href="/contact">Contact</a>
-            </li>
-            <li>
-              <a>About</a>
             </li>
             <li>
               <a>Docs</a>
