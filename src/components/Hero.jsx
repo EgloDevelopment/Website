@@ -32,7 +32,7 @@ function Component(props) {
   }
 
   useEffect(() => {
-    changeText();
+    //changeText();
   }, []);
 
   return (
@@ -40,7 +40,7 @@ function Component(props) {
       <div className="hero min-h-screen">
         <div className="hero-content text-center">
           <div
-            className={`max-w-md text-5xl transition-opacity duration-750 ${
+            className={` text-5xl transition-opacity duration-750 h-96 mt-44 ${
               show ? "opacity-100" : "opacity-0"
             }`}
           >
@@ -48,10 +48,11 @@ function Component(props) {
               className={`text-6xl font-bold 
               }`}
             >
-              {title}
+              Simple. Secure. Private.
             </h1>
+            <p className="text-sm font-bold mt-10">Простой. Безопасный. Частный.</p>
             <p className="py-6">{props.subtext}</p>
-            <p className="animate-bounce text-4xl">↓</p>
+            <p className="animate-bounce text-5xl mt-20">↓</p>
           </div>
         </div>
       </div>
