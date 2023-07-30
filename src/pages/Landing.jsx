@@ -13,8 +13,10 @@ function App() {
     <>
       <Navbar />
       <Hero />
+
       <div className="mt-20" />
-      <div className="text-center">
+      
+      <div className="text-center mb-64">
         <p className="text-5xl font-bold">Why Eglo?</p>
         <p className="mt-5 text-lg font-semibold px-10">
           Why would you need a secure communication platform?
@@ -22,7 +24,6 @@ function App() {
       </div>
 
       <InfoCard
-        marginTop="64"
         title="Over 5,500,000,000 Unencrypted Messages"
         text="There are over 5.5 Billion messages that are sent every day, all of
           them unencrypted, and readable by everyone, Hackers, The Government,
@@ -30,42 +31,36 @@ function App() {
       />
 
       <InfoCard
-        marginTop="32"
         title="End-to-End"
         text="All messages are sent with End-to-End encryption, making sure only the
         people you want, can see your message."
       />
 
       <InfoCard
-        marginTop="32"
         title="Mass Messaging, Made Simple"
         text="With Eglo, you can create servers with up to 10,000 people, all
         encrypted."
       />
 
       <InfoCard
-        marginTop="32"
         title="Secure File Uploading"
         text="Eglo provides encrypted, file and image uploads, up to 100MB on the
         free plan."
       />
 
       <InfoCard
-        marginTop="32"
         title="Privacy"
         text="Here at Eglo, we are strong advocates of privacy, we do not collect
         data on our users, simple as that."
       />
 
       <InfoCard
-        marginTop="32"
         title="Independently Owned"
         text="We are a startup company, we run our own servers, and are not owned by
         a larger tech company that harvests your data."
       />
       
       <InfoCard
-        marginTop="32"
         title="Anonymous Payments"
         text="We offer a generous free plan, but in case you need more, you can
         subscribe with any crypto-currency of your choice."

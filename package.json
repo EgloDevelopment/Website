@@ -10,10 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ackee-tracker": "^5.1.0",
     "axios": "^1.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.2"
+    "react-router-dom": "^6.14.2",
+    "use-ackee": "^3.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",

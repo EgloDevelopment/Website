@@ -1,7 +1,7 @@
 function Component(props) {
   return (
     <>
-      <div className={"lg:text-center lg:-ml-3 ml-3 pr-5 mt-" + props.marginTop}>
+      <div className="lg:text-center lg:-ml-3 ml-3 pr-5 mt-32" >
         <h1 className="text-4xl font-bold">
           {props.title}
         </h1>
