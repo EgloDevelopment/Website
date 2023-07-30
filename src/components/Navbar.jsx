@@ -24,55 +24,59 @@ function Component(props) {
             </label>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
+              className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 border border-secondary"
             >
               <li>
-                <a>Item 1</a>
+                <a href="/">Home</a>
               </li>
               <li>
-                <a>Parent</a>
-                <ul className="p-2">
-                  <li>
-                    <a>Submenu 1</a>
-                  </li>
-                  <li>
-                    <a>Submenu 2</a>
-                  </li>
-                </ul>
+                <a href="/pricing">Pricing</a>
               </li>
               <li>
-                <a>Item 3</a>
+                <a href="https://uptime.eglo.pw" target="_blank">
+                  Uptime
+                </a>
+              </li>
+              <li>
+                <a href="/contact">Contact</a>
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost normal-case text-xl">Eglo</a>
+          <a className="btn btn-ghost normal-case text-xl" href="/">Eglo</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <a>Item 1</a>
-            </li>
-            <li tabIndex={0}>
-              <details>
-                <summary>Parent</summary>
-                <ul className="p-2">
-                  <li>
-                    <a>Submenu 1</a>
-                  </li>
-                  <li>
-                    <a>Submenu 2</a>
-                  </li>
-                </ul>
-              </details>
+              <a href="/">Home</a>
             </li>
             <li>
-              <a>Item 3</a>
+              <a href="/pricing">Pricing</a>
+            </li>
+            <li>
+              <a href="https://uptime.eglo.pw" target="_blank">
+                Uptime
+              </a>
+            </li>
+            <li>
+              <a href="/contact">Contact</a>
             </li>
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn btn-ghost capitalize mr-5" href="https://app.eglo.pw/login" target="_blank">Login</a>
-          <a className="btn btn-secondary capitalize" href="https://app.eglo.pw/register" target="_blank">Register</a>
+          <a
+            className="btn btn-ghost capitalize mr-5"
+            href="https://app.eglo.pw/login"
+            target="_blank"
+          >
+            Login
+          </a>
+          <a
+            className="btn btn-secondary capitalize"
+            href="https://app.eglo.pw/register"
+            target="_blank"
+          >
+            Register
+          </a>
         </div>
       </div>
     </>

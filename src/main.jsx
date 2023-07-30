@@ -4,6 +4,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './main.css'
 
 import Landing from "./pages/Landing"
+import Contact from "./pages/Contact"
+import Pricing from "./pages/Pricing"
 
 import FourOhFour from "./404"
 import FiveHundred from "./500"
@@ -13,7 +15,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <Routes>
       <Route index element={<Landing />} />
 
-      <Route path="/settings" element={<Landing />} />
+      <Route path="/contact" element={<Contact />} />
+
+      <Route path="/pricing" element={<Pricing />} />
 
       <Route path="*" element={<FourOhFour />} />
       <Route path="/500" element={<FiveHundred />} />
