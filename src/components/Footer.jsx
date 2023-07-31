@@ -24,6 +24,13 @@ function Component(props) {
           <a className="link link-hover" href="https://cdn.eglo.pw/api/public/dl/IhZzVEgQ?inline=true" target="_blank">Donate</a>
         </div>
         <div>
+          <span className="footer-title">Socials</span>
+          <a className="link link-hover" href="https://github.com/EgloDevelopment" target="_blank">GitHub</a>
+          <a className="link link-hover" href="https://twitter.com/EgloDevelopment" target="_blank">Twitter</a>
+          <a className="link link-hover" href="https://www.instagram.com/eglo_development/" target="_blank">Instagram</a>
+          <a className="link link-hover" href="https://www.tiktok.com/@eglodevelopment" target="_blank">TikTok</a>
+        </div>
+        <div>
           <span className="footer-title">What we use</span>
           <a className="link link-hover" href="https://a-ads.com" target="_blank">Ads service</a>
           <a className="link link-hover" href="https://uptime.kuma.pet/" target="_blank">Uptime Kuma</a>
