@@ -3,6 +3,12 @@ import { useState } from "react";
 function Component(props) {
   return (
     <>
+    {/* AD CODE */}
+    <iframe
+        data-aa="2243636"
+        src="//ad.a-ads.com/2243636?size=970x90"
+        className="overflow-hidden bg-transparent w-full"
+      ></iframe>
       <footer className="static footer p-10 bg-base-200 text-base-content left-0 bottom-0">
         <div>
           <img className="w-5 h-5" src="/logo.png" />
@@ -32,7 +38,7 @@ function Component(props) {
         </div>
         <div>
           <span className="footer-title">What we use</span>
-          <a className="link link-hover" href="https://a-ads.com" target="_blank">Ads service</a>
+          <a className="link link-hover" href="https://a-ads.com" target="_blank">A-Ads</a>
           <a className="link link-hover" href="https://uptime.kuma.pet/" target="_blank">Uptime Kuma</a>
           <a className="link link-hover" href="https://ackee.electerious.com/" target="_blank">Ackee</a>
         </div>
@@ -40,7 +46,6 @@ function Component(props) {
           <span className="footer-title">Legal</span>
           <a className="link link-hover" href="https://cdn.eglo.pw/api/public/dl/YUYgHlMY?inline=true" target="_blank">Terms of use</a>
           <a className="link link-hover" href="https://cdn.eglo.pw/api/public/dl/HvkvC2mD?inline=true" target="_blank">Privacy policy</a>
-          <a className="link link-hover" href="https://cdn.eglo.pw/api/public/dl/tGA1y4Sm?inline=true" target="_blank">Acceptable use</a>
         </div>
       </footer>
     </>

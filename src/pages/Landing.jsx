@@ -15,7 +15,7 @@ function App() {
       <Hero />
 
       <div className="mt-20" />
-      
+
       <div className="text-center mb-64">
         <p className="text-5xl font-bold">Why Eglo?</p>
         <p className="mt-5 text-lg font-semibold px-10">
@@ -59,7 +59,7 @@ function App() {
         text="We are a startup company, we run our own servers, and are not owned by
         a larger tech company that harvests your data."
       />
-      
+
       <InfoCard
         title="Anonymous Payments"
         text="We offer a generous free plan, but in case you need more, you can
