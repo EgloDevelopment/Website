@@ -32,7 +32,7 @@ function Component(props) {
         </div>
         <div>
           <span className="footer-title">What we use</span>
-          <a className="link link-hover" href="https://a-ads.com" target="_blank">A-Ads</a>
+          <a className="link link-hover" href="https://a-ads.com?partner=2243636" target="_blank">A-Ads</a>
           <a className="link link-hover" href="https://uptime.kuma.pet/" target="_blank">Uptime Kuma</a>
           <a className="link link-hover" href="https://ackee.electerious.com/" target="_blank">Ackee</a>
         </div>
