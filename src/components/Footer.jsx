@@ -3,12 +3,6 @@ import { useState } from "react";
 function Component(props) {
   return (
     <>
-    {/* AD CODE */}
-    <iframe
-        data-aa="2243636"
-        src="//ad.a-ads.com/2243636?size=970x90"
-        className="overflow-hidden bg-transparent w-full"
-      ></iframe>
       <footer className="static footer p-10 bg-base-200 text-base-content left-0 bottom-0">
         <div>
           <img className="w-5 h-5" src="/logo.png" />
